@@ -8,9 +8,9 @@ Les données sur les contenus journalistiques québécois dans Facebook et Insta
 * une liste de 309 pages Facebook médiatiques appelée MediasQuebec
 * une liste de 85 comptes Instagram médiatiques appelée MediasQC
 
-[!)(CT-Facebook.png)
+![capture d'écran CrowdTangle de la liste Facebook](CT-Facebook.png)
 
-[!](CT-Insta.png)
+![capture d'écran CrowdTangle de la liste Instagram](CT-Insta.png)
 
 ## TikTok
 
