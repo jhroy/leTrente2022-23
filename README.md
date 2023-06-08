@@ -12,6 +12,19 @@ Les données sur les contenus journalistiques québécois dans Facebook et Insta
 
 ![capture d'écran CrowdTangle de la liste Instagram](CT-Insta.png)
 
+J'ai ensuite demandé à CrowdTangle de me fournir toutes les publications qu'il contient et qui ont été faites par les 309 pages Facebook et les 85 comptes Instagram identifiés entre le 1er janvier 2011 et le 31 mai 2023.
+
+* Pour Facebook, CrowdTangle a retourné 60 fichiers différents contenant en tout **4&nbsp;549&nbsp;559 publications**.
+* Pour Instagram, CrowdTangle a retourné 15 fichiers différents contenant en tout **140&nbsp;542 publications**.
+
+Un premier traitement de l'ensemble de ces fichiers a été effectué à l'aide de pandas, module python d'analyse de données. Les carnets qui détaillent cette première étape sont accessibles dans ce répertoire:
+* [**FB_300médias_parMois.ipynb**](FB_300médias_parMois.ipynb)
+* [**IG_85_médias_parMois.ipynb**](IG_85_médias_parMois.ipynb)
+
+J'ai ensuite extrait les publications des 17 mois s'échelonnant du 1er janvier 2022 au 31 mai 2023 et les ai analysés dans deux autres carnets:
+* [**FB_Analyse 2022-23.ipynb**](FB_Analyse 2022-23.ipynb)
+* [**IG_Analyse 2022-23.ipynb**](IG_Analyse 2022-23.ipynb)
+
 ## TikTok
 
 Pour recueillir les métadonnées des vidéos diffusées par les médias du Québec dans TikTok, l'API [TikAPI](https://tikapi.io/) ($) a été utilisée. Ce moissonnage a été effectué en trois étapes.
@@ -30,5 +43,3 @@ Une fois les comptes de médias établie, un deuxième script va chercher des m�
 
 À partir des métadonnées de base sur les comptes qui nous intéressent, ce troisième script recueille des données sur toutes les vidéos diffusées dans TikTok par ces comptes depuis qu'ils y sont abonnés.
 * [**tt2-videos.py**](tt2-videos.py)
-
-## 
