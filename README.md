@@ -17,11 +17,11 @@ J'ai ensuite demandé à CrowdTangle de me fournir toutes les publications qu'il
 * Pour Facebook, CrowdTangle a retourné 60 fichiers différents contenant en tout **4&nbsp;549&nbsp;559 publications**.
 * Pour Instagram, CrowdTangle a retourné 15 fichiers différents contenant en tout **140&nbsp;542 publications**.
 
-Un premier traitement de l'ensemble de ces fichiers a été effectué à l'aide de pandas, module python d'analyse de données. Les carnets qui détaillent cette première étape sont accessibles dans ce répertoire:
+Un premier traitement de l'ensemble de ces fichiers a été effectué à l'aide de [pandas](https://pandas.pydata.org/docs/), module python d'analyse de données. Les carnets qui détaillent cette première étape sont accessibles dans ce répertoire:
 * [**FB_300médias_parMois.ipynb**](FB_300médias_parMois.ipynb)
 * [**IG_85_médias_parMois.ipynb**](IG_85_médias_parMois.ipynb)
 
-J'ai ensuite extrait les publications des 17 mois s'échelonnant du 1er janvier 2022 au 31 mai 2023 et les ai analysés dans deux autres carnets:
+J'ai ensuite extrait les publications des 17 mois s'échelonnant du 1er janvier 2022 au 31 mai 2023 et les ai analysés, notamment à l'aide du module de traitement du langage naturel [spacy](https://spacy.io/), dans deux autres carnets:
 * [**FB_Analyse 2022-23.ipynb**](FB_Analyse 2022-23.ipynb)
 * [**IG_Analyse 2022-23.ipynb**](IG_Analyse 2022-23.ipynb)
 
