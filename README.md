@@ -43,3 +43,6 @@ Une fois les comptes de médias établie, un deuxième script va chercher des m�
 
 À partir des métadonnées de base sur les comptes qui nous intéressent, ce troisième script recueille des données sur toutes les vidéos diffusées dans TikTok par ces comptes depuis qu'ils y sont abonnés.
 * [**tt2-videos.py**](tt2-videos.py)
+
+Une analyse textuelle a également été effectuée sur un sous-ensemble composé des publications TikTok diffusées en 2022 et en 2023 (jusqu'au 31 mai 2023). Elle est décrite dans ce carnet:
+* [**TT_Analyse 2022-23.ipynb**](TT_Analyse 2022-23.ipynb)
