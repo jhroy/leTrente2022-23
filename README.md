@@ -61,6 +61,12 @@ Je peux cependant donner accès à ces données agrégées qui donne une idée d
 
 ### Instagram
 
+Les conditions d'utilisation de CrowdTangle s'appliquent également à mon corpus Instagram. Je suis disposé à y donner accès, mais sur demande seulement.
+
+Et je peux donner accès à l'agrégation présentée dans le fichier CSV suivant, qui donne une idée de l'activité Instagram d'un peu plus de 80 comptes de médias québécois entre le 1er janvier 2022 et le 31 mai 2023:
+
+* [**Instagram_medias_quebec_2022-2023.csv**](Instagram_medias_quebec_2022-2023.csv)
+
 ### TikTok
 
 Je n'ai pas les même restrictions avec TikTok. Je peux rendre accessible l'ensemble des données que j'ai récoltées grâce à la métho décrite ci-dessus dans le fichier suivant:
