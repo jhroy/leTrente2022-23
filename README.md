@@ -2,8 +2,6 @@
 
 Code et données utilisées pour un article sur la présence des médias québécois dans trois réseaux sociaux (Facebook, Instagram et TikTok) publié dans *Le Trente*, magazine annuel de la [Fédération professionnelle des journalistes du Québec (FPJQ)](https://www.fpjq.org/fr/).
 
-## Données
-
 ## Méthodologie
 
 ### Facebook et Instagram
@@ -50,3 +48,15 @@ Une fois les comptes de médias établie, un deuxième script va chercher des m�
 
 Une analyse textuelle a également été effectuée sur un sous-ensemble composé des publications TikTok diffusées en 2022 et en 2023 (jusqu'au 31 mai 2023). Elle est décrite dans ce carnet:
 * [**TT_Analyse_2022-23.ipynb**](TT_Analyse_2022-23.ipynb)
+
+## Données
+
+### Facebook
+
+### Instagram
+
+### TikTok
+
+Je n'ai pas les même restrictions avec TikTok. Je peux rendre accessible l'ensemble des données que j'ai récoltées grâce à la métho décrite ci-dessus dans le fichier suivant:
+
+* [**TikTok_medias_quebec_2019-2023.csv**](TikTok_medias_quebec_2019-2023.csv)
