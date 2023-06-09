@@ -6,6 +6,9 @@ Code et données utilisées pour un article sur la présence des médias québé
 
 ### Facebook et Instagram
 
+![logo FB](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/240px-Facebook_f_logo_%282019%29.svg.png)
+![logo IG](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/240px-Instagram-Icon.png)
+
 Les données sur les contenus journalistiques québécois dans Facebook et Instagram ont été obtenues à partir de deux tableaux de bord créés dans [CrowdTangle](https://www.crowdtangle.com/), un outil d'analyse de contenus appartenant à Meta Platforms, la société mère des deux réseaux sociaux. Dans ces tableaux de bord, deux listes ont été créées:
 * une liste de 309 pages Facebook médiatiques appelée MediasQuebec
 * une liste de 85 comptes Instagram médiatiques appelée MediasQC
@@ -28,6 +31,8 @@ J'ai ensuite extrait les publications des 17 mois s'échelonnant du 1er janvier 
 * [**IG_Analyse_2022-23.ipynb**](IG_Analyse_2022-23.ipynb)
 
 ### TikTok
+
+![logo TT](https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/TikTok_logo.svg/640px-TikTok_logo.svg.png)
 
 Pour recueillir les métadonnées des vidéos diffusées par les médias du Québec dans TikTok, l'API [TikAPI](https://tikapi.io/) ($) a été utilisée. Ce moissonnage a été effectué en trois étapes.
 
