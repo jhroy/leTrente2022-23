@@ -53,6 +53,12 @@ Une analyse textuelle a également été effectuée sur un sous-ensemble compos�
 
 ### Facebook
 
+Les [conditions d'utilisation](https://www.crowdtangle.com/terms) de CrowdTangle ne me permettent pas de rendre accessible l'ensemble des données colligées. Je demeure ouvert à les faire parvenir à toute personne chercheuse qui [m'en ferait la demande](mailto:roy.jean-hugues@uqam.ca?subject="Vos données CrowdTangle (2022-23)") dans le cadre d'un projet de recherche (s'applique aussi aux personnes étudiantes aux cycles supérieurs à l'université).
+
+Je peux cependant donner accès à ces données agrégées qui donne une idée de l'activité Facebook d'un peu plus de 300 pages de médias québécois entre le 1er janvier 2022 et le 31 mai 2023:
+
+* [**Facebook_medias_quebec_2022-2023.csv**](Facebook_medias_quebec_2022-2023.csv)
+
 ### Instagram
 
 ### TikTok
