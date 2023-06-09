@@ -21,7 +21,7 @@ Un premier traitement de l'ensemble de ces fichiers a été effectué à l'aide 
 * [**FB_300médias_parMois.ipynb**](FB_300médias_parMois.ipynb)
 * [**IG_85_médias_parMois.ipynb**](IG_85_médias_parMois.ipynb)
 
-J'ai ensuite extrait les publications des 17 mois s'échelonnant du 1er janvier 2022 au 31 mai 2023 et les ai analysés, notamment à l'aide du module de traitement du langage naturel [spacy](https://spacy.io/), dans deux autres carnets:
+J'ai ensuite extrait les publications des 17 mois s'échelonnant du 1er janvier 2022 au 31 mai 2023 et les ai analysées, notamment à l'aide du module de traitement du langage naturel [spacy](https://spacy.io/), dans deux autres carnets:
 * [**FB_Analyse_2022-23.ipynb**](FB_Analyse_2022-23.ipynb)
 * [**IG_Analyse_2022-23.ipynb**](IG_Analyse_2022-23.ipynb)
 
