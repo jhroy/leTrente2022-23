@@ -84,7 +84,7 @@ Je n'ai pas les même restrictions avec TikTok. Je peux rendre accessible l'ense
 
 L'espace restreint dans *Le Trente* a conduit à supprimer plusieurs tableaux que j'avais réalisés pour accompagner cet article.
 
-Tableau 1 - Médias québécois sur TikTok, par nombre moyen de vues par vidéo.
+Tableau 1 - Médias québécois sur **TikTok**, par nombre moyen de vues par vidéo.
 
 | Média              | Nombre de vidéos | Nombre de vues | Vues par vidéo |
 |--------------------|-----------------:|---------------:|---------------:|
@@ -98,3 +98,13 @@ Tableau 1 - Médias québécois sur TikTok, par nombre moyen de vues par vidéo.
 | @24heuresca        | 263              | 9&nbsp;529&nbsp;778        | 36&nbsp;235          |
 | @majmonactu        | 113              | 3&nbsp;737&nbsp;001        | 33&nbsp;071          |
 | @radio.canada.info | 223              | 6&nbsp;038&nbsp;150        | 27&nbsp;077          |
+
+Tableau 2 - Catégorisation des 100 mots-clics les plus couramment utilisés sur **TikTok** par les médias québécois.
+
+| Catégorie de mot-clic | Exemples                                                       | Nb de mentions |
+|-----------------------|----------------------------------------------------------------|---------------:|
+| Localisation          | #MTL, #514, #québec, #sherbrooke, etc.                         |           4&nbsp;480 |
+| Propre à TT           | #tiktokquebec, #quebectiktok, #fyp, #pourtoipage, etc.         |           2&nbsp;825 |
+| Sujet précis          | #hockey, #nhl, #lnh, #ukraine, #climat, #françoislegault, etc. |           1&nbsp;897 |
+| Autoréférentiel       | #narcityquebec, #tvanouvelles, #ledevoir, etc.                 |           1&nbsp;377 |
+| Sujet vague           | #actualité, #news, #voxpop, #sports, #humour, etc.             |           1&nbsp;132 |
