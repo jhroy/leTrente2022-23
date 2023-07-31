@@ -92,9 +92,9 @@ Tableau 1 - Médias québécois sur TikTok, par nombre moyen de vues par vidéo.
 | @tvasports         | 127              | 8&nbsp;982&nbsp;792        | 70&nbsp;731          |
 | @tvanouvelles      | 238              | 1&nbsp;3404&nbsp;200       | 56&nbsp;320          |
 | @lesacdechips      | 107              | 5802&nbsp;452        | 54&nbsp;229          |
-| @_urbania          | 346              | 1&nbsp;5170&nbsp;617       | 43&nbsp;846          |
+| @_urbania          | 346              | 15&nbsp;170&nbsp;617       | 43&nbsp;846          |
 | @lapochebleue      | 100              | 4&nbsp;192&nbsp;005        | 41&nbsp;920          |
-| @mtlblog           | 580              | 2&nbsp;4071&nbsp;769       | 41&nbsp;503          |
-| @24heuresca        | 263              | 9&nbsp;529&nbsp;778        | 362&nbsp;35          |
+| @mtlblog           | 580              | 24&nbsp;071&nbsp;769       | 41&nbsp;503          |
+| @24heuresca        | 263              | 9&nbsp;529&nbsp;778        | 36&nbsp;235          |
 | @majmonactu        | 113              | 3&nbsp;737&nbsp;001        | 33&nbsp;071          |
 | @radio.canada.info | 223              | 6&nbsp;038&nbsp;150        | 27&nbsp;077          |
