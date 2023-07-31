@@ -159,3 +159,40 @@ Tableau 4 - 20 mots-clics les plus souvent mentionnés sur **Instagram** par les
 | #LNH                    |                    274 |
 | #nhl                    |                    274 |
 | #changementsclimatiques |                    265 |
+
+---
+
+Si les mots-clics sont un mode de communication propre aux réseaux sociaux, les emojis le sont également, sinon davantage. Le tableau 5 présente les vingt emojis les plus souvent rencontrés dans les publications que les médias québécois ont faites sur **Instagram** et **TikTok** en 2022 et 2023. Le pourcentage représente la proportion de mentions d’un emoji en particulier dans le total des emojis utilisés sur une plateforme donnée.
+
+Tableau 5 - 20 emojis les plus utilisés par les médias québécois sur **TikTok** et sur **Instagram** en 2022-23.
+
+| Emoji | Instagram | TikTok | Ensemble |
+|-------|----------:|-------:|---------:|
+| 📸     |   12,05 % | 2,33 % |  14,38 % |
+| 👉     |    1,13 % | 3,25 % |   4,37 % |
+| 📷     |    4,22 % | 0,12 % |   4,34 % |
+| 👀     |    0,80 % | 2,62 % |   3,42 % |
+| 🎥     |    0,34 % | 2,51 % |   2,84 % |
+| 😂     |    0,22 % | 2,44 % |   2,65 % |
+| 😍     |    0,50 % | 1,77 % |   2,26 % |
+| 🔥     |    0,49 % | 1,49 % |   1,99 % |
+| 📍     |    0,08 % | 1,62 % |   1,70 % |
+| 👈     |    1,46 % | 0,18 % |   1,63 % |
+| 🤯     |    0,26 % | 1,33 % |   1,59 % |
+| 🤔     |    0,20 % | 1,14 % |   1,34 % |
+| 👏     |    0,50 % | 0,65 % |   1,15 % |
+| 👆     |    0,20 % | 0,94 % |   1,15 % |
+| 🤩     |    0,40 % | 0,69 % |   1,09 % |
+| 🏒     |    0,36 % | 0,73 % |   1,09 % |
+| ✍️     |    1,00 % | 0,00 % |   1,00 % |
+| ❤️     |    0,16 % | 0,76 % |   0,93 % |
+| ❄️     |    0,19 % | 0,61 % |   0,80 % |
+| 🤤     |    0,11 % | 0,66 % |   0,77 % |
+
+On remarque que les appareils photo dominent sur Instagram, alors que du côté de  TikTok, c’est davantage la caméra de cinéma (et la paire d’yeux pour inviter les abonnés à regarder). TikTok carbure davantage aux émotions (le rire, les yeux en cœur, les flammes, la tête qui explose, le doute), alors qu’Instagram sert davantage à mettre en valeur le contenu visuel (avec les deux emojis d’appareil photo qui sont en tête du palmarès). 
+
+On peut également observer que les médias font pointer plutôt à droite quand ils publient dans TikTok, mais plutôt à gauche quand ils publient sur Instagram. Rien dans l’interface n’invite les utilisateurs à pointer d’un côté ou de l’autre. C’est peut-être simplement le fruit du hasard.
+
+===
+
+
