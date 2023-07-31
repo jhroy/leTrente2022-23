@@ -6,6 +6,14 @@ Code et données utilisées pour un article sur la présence des médias québé
 
 ## Méthodologie
 
+De façon générale, pour Facebook et Instagram, l’extraction de données a été effectuée grâce à CrowdTangle, un outil d’analyse des contenus de Meta Platforms.
+
+Pour TikTok, un script en langage python a permis d’utiliser le module TikAPI. L’extraction a été effectuée au printemps 2023 et complétée le 5 juin. 
+
+* Sur Facebook, l’extraction concerne 309 pages de médias québécois;
+* sur Instagram, 85 comptes et
+* sur TikTok, 24 comptes. 
+
 ### Facebook et Instagram
 
 ![logo FB](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/240px-Facebook_f_logo_%282019%29.svg.png)
@@ -192,7 +200,3 @@ Tableau 5 - 20 emojis les plus utilisés par les médias québécois sur **TikTo
 On remarque que les appareils photo dominent sur Instagram, alors que du côté de  TikTok, c’est davantage la caméra de cinéma (et la paire d’yeux pour inviter les abonnés à regarder). TikTok carbure davantage aux émotions (le rire, les yeux en cœur, les flammes, la tête qui explose, le doute), alors qu’Instagram sert davantage à mettre en valeur le contenu visuel (avec les deux emojis d’appareil photo qui sont en tête du palmarès). 
 
 On peut également observer que les médias font pointer plutôt à droite quand ils publient dans TikTok, mais plutôt à gauche quand ils publient sur Instagram. Rien dans l’interface n’invite les utilisateurs à pointer d’un côté ou de l’autre. C’est peut-être simplement le fruit du hasard.
-
-===
-
-
