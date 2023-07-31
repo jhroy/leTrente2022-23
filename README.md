@@ -1,5 +1,7 @@
 # Médias du Québec et réseaux sociaux (Facebook, Instagram et TikTok), 2011-2023
 
+![Illustration générée par Midjourney à partir de l'illustration «La chasse-galerie», par Henri Julien (1900), en y ajoutant la commande suivante: «Rabaska s'envolant haut dans le ciel». Les logos de réseaux sociaux et de médias ont été ajoutés par la suite.](chassegalerie.jpeg)
+
 Code et données utilisées pour un article sur la présence des médias québécois dans trois réseaux sociaux (Facebook, Instagram et TikTok) publié dans *Le Trente*, magazine annuel de la [Fédération professionnelle des journalistes du Québec (FPJQ)](https://www.fpjq.org/fr/).
 
 ## Méthodologie
@@ -58,7 +60,7 @@ Une analyse textuelle a également été effectuée sur un sous-ensemble compos�
 
 ### Facebook
 
-Les [conditions d'utilisation](https://www.crowdtangle.com/terms) de CrowdTangle ne me permettent pas de rendre accessible l'ensemble des données colligées. Je demeure ouvert à les faire parvenir à toute personne chercheuse qui [m'en ferait la demande](mailto:roy.jean-hugues@uqam.ca?subject="Vos données CrowdTangle (2022-23)") dans le cadre d'un projet de recherche (s'applique aussi aux personnes étudiantes aux cycles supérieurs à l'université).
+Les [conditions d'utilisation](https://www.crowdtangle.com/terms) de CrowdTangle ne me permettent pas de rendre accessible l'ensemble des données colligées. Je demeure ouvert à les faire parvenir à toute personne chercheuse qui [m'en ferait la demande](mailto:roy.jean-hugues@uqam.ca) dans le cadre d'un projet de recherche (s'applique aussi aux personnes étudiantes aux cycles supérieurs à l'université).
 
 Je peux cependant donner accès à ces données agrégées qui donne une idée de l'activité Facebook d'un peu plus de 300 pages de médias québécois entre le 1er janvier 2022 et le 31 mai 2023:
 
@@ -77,3 +79,22 @@ Et je peux donner accès à l'agrégation présentée dans le fichier CSV suivan
 Je n'ai pas les même restrictions avec TikTok. Je peux rendre accessible l'ensemble des données que j'ai récoltées grâce à la métho décrite ci-dessus dans le fichier suivant:
 
 * [**TikTok_medias_quebec_2019-2023.csv**](TikTok_medias_quebec_2019-2023.csv)
+
+## Informations supplémentaires
+
+L'espace restreint dans *Le Trente* a conduit à supprimer plusieurs tableaux que j'avais réalisés pour accompagner cet article.
+
+Tableau 1 - Médias québécois sur TikTok, par nombre moyen de vues par vidéo.
+
+| Média              | Nombre de vidéos | Nombre de vues | Vues par vidéo |
+|--------------------|-----------------:|---------------:|---------------:|
+| @rds.ca            | 355              | 34&nbsp;150&nbsp;656       | 96&nbsp;199          |
+| @tvasports         | 127              | 8&nbsp;982&nbsp;792        | 70&nbsp;731          |
+| @tvanouvelles      | 238              | 1&nbsp;3404&nbsp;200       | 56&nbsp;320          |
+| @lesacdechips      | 107              | 5802&nbsp;452        | 54&nbsp;229          |
+| @_urbania          | 346              | 1&nbsp;5170&nbsp;617       | 43&nbsp;846          |
+| @lapochebleue      | 100              | 4&nbsp;192&nbsp;005        | 41&nbsp;920          |
+| @mtlblog           | 580              | 2&nbsp;4071&nbsp;769       | 41&nbsp;503          |
+| @24heuresca        | 263              | 9&nbsp;529&nbsp;778        | 362&nbsp;35          |
+| @majmonactu        | 113              | 3&nbsp;737&nbsp;001        | 33&nbsp;071          |
+| @radio.canada.info | 223              | 6&nbsp;038&nbsp;150        | 27&nbsp;077          |
