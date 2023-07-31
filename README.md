@@ -115,9 +115,8 @@ Tableau 2 - Catégorisation des 100 mots-clics les plus couramment utilisés sur
 
 Tableau 3 - Données de base sur 15 comptes Instagram de médias québécois (nombre de followers, de publications, de vues et d’interactions), classés en fonction du nombre d’interactions par publication (janvier 2022 à mai 2023).
 
-|          |   | **Nombre de publications**     |  |   | **Interactions**    |   |
-|---------|------------------:|-----------------:|-----------:|-----------:|---------:|------------------:|-----------------:|----------:|--------------------------:|
 | **Média**  | **Followers max** | **Albums** | **Photos** | **Vidéos** | **Vues** | **Vues moyennes** | **Commentaires** | **Likes** | **Interactions moyennes** |
+|---------|------------------:|-----------------:|-----------:|-----------:|---------:|------------------:|-----------------:|----------:|--------------------------:|
 | Rad    |  105&nbsp;491 |  406 |  1 | 11 |  1&nbsp;921&nbsp;040 |  4&nbsp;607 |  21&nbsp;208 | 1&nbsp;154&nbsp;503 |    2&nbsp;813 |
 | RDS    |  123&nbsp;929 |    471 |   3&nbsp;597 |    201 |  7&nbsp;469&nbsp;861 |     11&nbsp;116 |    73&nbsp;526 | 6&nbsp;594&nbsp;962 |        1&nbsp;562 |
 | TVA Nouvelles      |    152&nbsp;242 |      303 |    141 |   87 |  6&nbsp;611&nbsp;697 |     16&nbsp;953 |    37&nbsp;851 |  498&nbsp;875 |        1&nbsp;011 |
