@@ -86,25 +86,50 @@ L'espace restreint dans *Le Trente* a conduit à supprimer plusieurs tableaux qu
 
 Tableau 1 - Médias québécois sur **TikTok**, par nombre moyen de vues par vidéo.
 
-| Média              | Nombre de vidéos | Nombre de vues | Vues par vidéo |
+| Média      | Nombre de vidéos | Nombre de vues | Vues par vidéo |
 |--------------------|-----------------:|---------------:|---------------:|
-| @rds.ca            | 355              | 34&nbsp;150&nbsp;656       | 96&nbsp;199          |
-| @tvasports         | 127              | 8&nbsp;982&nbsp;792        | 70&nbsp;731          |
-| @tvanouvelles      | 238              | 13&nbsp;404&nbsp;200       | 56&nbsp;320          |
-| @lesacdechips      | 107              | 5&nbsp;802&nbsp;452        | 54&nbsp;229          |
-| @_urbania          | 346              | 15&nbsp;170&nbsp;617       | 43&nbsp;846          |
-| @lapochebleue      | 100              | 4&nbsp;192&nbsp;005        | 41&nbsp;920          |
-| @mtlblog           | 580              | 24&nbsp;071&nbsp;769       | 41&nbsp;503          |
-| @24heuresca        | 263              | 9&nbsp;529&nbsp;778        | 36&nbsp;235          |
-| @majmonactu        | 113              | 3&nbsp;737&nbsp;001        | 33&nbsp;071          |
-| @radio.canada.info | 223              | 6&nbsp;038&nbsp;150        | 27&nbsp;077          |
+| @rds.ca    | 355      | 34&nbsp;150&nbsp;656   | 96&nbsp;199    |
+| @tvasports   | 127      | 8&nbsp;982&nbsp;792    | 70&nbsp;731    |
+| @tvanouvelles  | 238      | 13&nbsp;404&nbsp;200   | 56&nbsp;320    |
+| @lesacdechips  | 107      | 5&nbsp;802&nbsp;452    | 54&nbsp;229    |
+| @_urbania    | 346      | 15&nbsp;170&nbsp;617   | 43&nbsp;846    |
+| @lapochebleue  | 100      | 4&nbsp;192&nbsp;005    | 41&nbsp;920    |
+| @mtlblog     | 580      | 24&nbsp;071&nbsp;769   | 41&nbsp;503    |
+| @24heuresca    | 263      | 9&nbsp;529&nbsp;778    | 36&nbsp;235    |
+| @majmonactu    | 113      | 3&nbsp;737&nbsp;001    | 33&nbsp;071    |
+| @radio.canada.info | 223      | 6&nbsp;038&nbsp;150    | 27&nbsp;077    |
+
+---
 
 Tableau 2 - Catégorisation des 100 mots-clics les plus couramment utilisés sur **TikTok** par les médias québécois.
 
-| Catégorie de mot-clic | Exemples                                                       | Nb de mentions |
+| Catégorie de mot-clic | Exemples                   | Nb de mentions |
 |-----------------------|----------------------------------------------------------------|---------------:|
-| Localisation          | #MTL, #514, #québec, #sherbrooke, etc.                         |           4&nbsp;480 |
-| Propre à TT           | #tiktokquebec, #quebectiktok, #fyp, #pourtoipage, etc.         |           2&nbsp;825 |
-| Sujet précis          | #hockey, #nhl, #lnh, #ukraine, #climat, #françoislegault, etc. |           1&nbsp;897 |
-| Autoréférentiel       | #narcityquebec, #tvanouvelles, #ledevoir, etc.                 |           1&nbsp;377 |
-| Sujet vague           | #actualité, #news, #voxpop, #sports, #humour, etc.             |           1&nbsp;132 |
+| Localisation    | #MTL, #514, #québec, #sherbrooke, etc.         |     4&nbsp;480 |
+| Propre à TT     | #tiktokquebec, #quebectiktok, #fyp, #pourtoipage, etc.   |     2&nbsp;825 |
+| Sujet précis    | #hockey, #nhl, #lnh, #ukraine, #climat, #françoislegault, etc. |     1&nbsp;897 |
+| Autoréférentiel   | #narcityquebec, #tvanouvelles, #ledevoir, etc.       |     1&nbsp;377 |
+| Sujet vague     | #actualité, #news, #voxpop, #sports, #humour, etc.     |     1&nbsp;132 |
+
+---
+
+Tableau 3 - Données de base sur 15 comptes Instagram de médias québécois (nombre de followers, de publications, de vues et d’interactions), classés en fonction du nombre d’interactions par publication (janvier 2022 à mai 2023).
+
+|          |   | **Nombre de publications**     |  |   | **Interactions**    |   |
+|---------|------------------:|-----------------:|-----------:|-----------:|---------:|------------------:|-----------------:|----------:|--------------------------:|
+| **Média**  | **Followers max** | **Albums** | **Photos** | **Vidéos** | **Vues** | **Vues moyennes** | **Commentaires** | **Likes** | **Interactions moyennes** |
+| Rad    |  105&nbsp;491 |  406 |  1 | 11 |  1&nbsp;921&nbsp;040 |  4&nbsp;607 |  21&nbsp;208 | 1&nbsp;154&nbsp;503 |    2&nbsp;813 |
+| RDS    |  123&nbsp;929 |    471 |   3&nbsp;597 |    201 |  7&nbsp;469&nbsp;861 |     11&nbsp;116 |    73&nbsp;526 | 6&nbsp;594&nbsp;962 |        1&nbsp;562 |
+| TVA Nouvelles      |    152&nbsp;242 |      303 |    141 |   87 |  6&nbsp;611&nbsp;697 |     16&nbsp;953 |    37&nbsp;851 |  498&nbsp;875 |        1&nbsp;011 |
+| TVA Sports       |     54&nbsp;120 |      136 |    851 |    228 | 918&nbsp;963 |      2525 |    17&nbsp;482 |  928&nbsp;290 |         778 |
+| URBANIA        |     80&nbsp;774 |      236 |   73 |    163 |  5&nbsp;677&nbsp;126 |     14&nbsp;228 |     9&nbsp;602 |  349&nbsp;308 |         760 |
+| Le Devoir      |    135&nbsp;010 |     1&nbsp;170 |   1&nbsp;207 |    101 |  2&nbsp;134&nbsp;280 |      1&nbsp;679 |    38&nbsp;759 | 1&nbsp;400&nbsp;016 |         581 |
+| Radio-Canada Information |    211&nbsp;273 |     1&nbsp;104 |   57 |   86 |  1&nbsp;915&nbsp;122 |      1&nbsp;609 |    19&nbsp;240 |  658&nbsp;635 |         544 |
+| La Presse      |    179&nbsp;474 |      510 |   85 |   20 | 644&nbsp;119 |      1&nbsp;215 |    10&nbsp;353 |  312&nbsp;898 |         526 |
+| CBC Montreal     |     49&nbsp;873 |      244 |    176 |   76 | 919&nbsp;888 |      2&nbsp;875 |    12&nbsp;817 |  239&nbsp;561 |         509 |
+| Le Journal de Montréal   |     93&nbsp;613 |      118 |    888 |    5 | 123&nbsp;548 |      1&nbsp;004 |    40&nbsp;205 |  469&nbsp;144 |         504 |
+| Radio-Canada Environnement |     19&nbsp;693 |      267 |   16 |   61 | 468&nbsp;812 |      1&nbsp;429 |     3&nbsp;121 |  160&nbsp;578 |         476 |
+| Montreal Gazette     |     75&nbsp;456 |      198 |   1&nbsp;570 |    2 |  28&nbsp;188 |     141 |    64&nbsp;015 |  774&nbsp;360 |         474 |
+| Radio-Canada Science   |     30&nbsp;142 |      196 |   72 |   42 | 346&nbsp;047 |      1&nbsp;454 |     2&nbsp;506 |  115&nbsp;342 |         380 |
+| Narcity Québec     |    184&nbsp;098 |      380 |   6&nbsp;784 |    8 | 501&nbsp;995 |      1&nbsp;294 |     108&nbsp;074 | 2&nbsp;601&nbsp;118 |         378 |
+| 24 heures      |     14&nbsp;956 |      544 |   69 |   65 | 404&nbsp;214 |     664 |     5&nbsp;114 |  209&nbsp;744 |         317 |
