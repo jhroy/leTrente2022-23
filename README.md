@@ -201,11 +201,13 @@ On remarque que les appareils photo dominent sur Instagram, alors que du côté 
 
 On peut également observer que les médias font pointer plutôt à droite quand ils publient dans TikTok, mais plutôt à gauche quand ils publient sur Instagram. Rien dans l’interface n’invite les utilisateurs à pointer d’un côté ou de l’autre. C’est peut-être simplement le fruit du hasard.
 
-===
+<hr>
 
 ## Autres publications : *La&nbsp;Presse* et *Les Cahiers du journalisme*
 
-J'ai par ailleurs demandé à CrowdTangle toutes les publications réalisées en français par des pages Facebook administrées au Canada du 1er janvier 2021 au 31 mai 2023. Pour chacun des 29 mois dans cet intervalle, CrowdTangle a retourné les 300&nbsp;000 publications ayant généré le plus d'interactions. Les conditions d'utilisation de CrowdTangle m'empêchent de partager ici les 29 fichiers CSV que ma requête a produits, mais il me fera plaisir de les fournir aux chercheuses ou chercheurs qui en feraient la demande s'ils n'ont pas déjà accès à CrowdTangle.
+Pour des articles dans [*La&nbsp;Presse* («&nbsp;Le désert d'un Facebook sans nouvelles&nbsp;»)](https://www.lapresse.ca/debats/opinions/2023-08-04/le-desert-d-un-facebook-sans-nouvelles.php) et dans [*Les Cahiers du journalisme*](https://cahiersdujournalisme.org/), j'ai par ailleurs demandé à CrowdTangle toutes les publications réalisées en français par des pages Facebook administrées au Canada du 1er janvier 2021 au 31 mai 2023.
+
+Pour chacun des 29 mois dans cet intervalle, CrowdTangle a retourné les 300&nbsp;000 publications ayant généré le plus d'interactions. Les conditions d'utilisation de CrowdTangle m'empêchent de partager ici les 29 fichiers CSV que ma requête a produits, mais il me fera plaisir de les fournir aux chercheuses ou chercheurs qui en feraient la demande s'ils n'ont pas déjà accès à CrowdTangle.
 
 Ensemble, ces 29 fichiers comptent plus de 8,1 millions de publications Facebook.
 
