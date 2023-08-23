@@ -200,3 +200,16 @@ Tableau 5 - 20 emojis les plus utilisés par les médias québécois sur **TikTo
 On remarque que les appareils photo dominent sur Instagram, alors que du côté de  TikTok, c’est davantage la caméra de cinéma (et la paire d’yeux pour inviter les abonnés à regarder). TikTok carbure davantage aux émotions (le rire, les yeux en cœur, les flammes, la tête qui explose, le doute), alors qu’Instagram sert davantage à mettre en valeur le contenu visuel (avec les deux emojis d’appareil photo qui sont en tête du palmarès). 
 
 On peut également observer que les médias font pointer plutôt à droite quand ils publient dans TikTok, mais plutôt à gauche quand ils publient sur Instagram. Rien dans l’interface n’invite les utilisateurs à pointer d’un côté ou de l’autre. C’est peut-être simplement le fruit du hasard.
+
+===
+
+## Autres publications : *La&nbsp;Presse* et *Les Cahiers du journalisme*
+
+J'ai par ailleurs demandé à CrowdTangle toutes les publications réalisées en français par des pages Facebook administrées au Canada du 1er janvier 2021 au 31 mai 2023. Pour chacun des 29 mois dans cet intervalle, CrowdTangle a retourné les 300&nbsp;000 publications ayant généré le plus d'interactions. Les conditions d'utilisation de CrowdTangle m'empêchent de partager ici les 29 fichiers CSV que ma requête a produits, mais il me fera plaisir de les fournir aux chercheuses ou chercheurs qui en feraient la demande s'ils n'ont pas déjà accès à CrowdTangle.
+
+Les 29 fichiers ont d'abord été traités avec pandas dans le carnet [**FB_CanFranco_parMois_pourGithub.ipynb**](FB_CanFranco_parMois_pourGithub.ipynb) Ce carnet lit les fichiers, sépare les 309 pages de médias grâce à leur identifiant unique Facebook du reste, puis compte le nombre de publications et la somme des interactions de chaque groupe (médias et non-médias).
+
+Les résultats sont présentés dans deux fichiers CSV:
+
+* [**2021-23-medias.csv**](2021-23-medias.csv) et
+* [**2021-23-non-medias.csv**](2021-23-non-medias.csv)
