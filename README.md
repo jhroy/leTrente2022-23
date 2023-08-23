@@ -207,9 +207,11 @@ On peut également observer que les médias font pointer plutôt à droite quand
 
 J'ai par ailleurs demandé à CrowdTangle toutes les publications réalisées en français par des pages Facebook administrées au Canada du 1er janvier 2021 au 31 mai 2023. Pour chacun des 29 mois dans cet intervalle, CrowdTangle a retourné les 300&nbsp;000 publications ayant généré le plus d'interactions. Les conditions d'utilisation de CrowdTangle m'empêchent de partager ici les 29 fichiers CSV que ma requête a produits, mais il me fera plaisir de les fournir aux chercheuses ou chercheurs qui en feraient la demande s'ils n'ont pas déjà accès à CrowdTangle.
 
-Les 29 fichiers ont d'abord été traités avec pandas dans le carnet [**FB_CanFranco_parMois_pourGithub.ipynb**](FB_CanFranco_parMois_pourGithub.ipynb) Ce carnet lit les fichiers, sépare les 309 pages de médias grâce à leur identifiant unique Facebook du reste, puis compte le nombre de publications et la somme des interactions de chaque groupe (médias et non-médias).
+Ensemble, ces 29 fichiers comptent plus de 8,1 millions de publications Facebook.
 
-Les résultats sont présentés dans deux fichiers CSV:
+Les 29 fichiers ont d'abord été traités avec pandas dans le carnet [**FB_CanFranco_parMois_pourGithub.ipynb**](FB_CanFranco_parMois_pourGithub.ipynb) Ce carnet lit les fichiers. Il sépare ensuite les publications des 309 pages de médias du reste grâce à leur identifiant unique Facebook, formant ainsi deux sous-ensembles&nbsp;: médias et non-médias. Il compte enfin le nombre de publications et la somme des interactions de chaque sous-ensemble (médias et non-médias).
+
+Les résultats (avec le nombre de publications, la somme des interactions et la moyenne d'interactions par publication) pour chaque page Facebook dans mon échantillon sont présentés dans deux fichiers CSV, un pour chaque sous-ensemble de mon échantillon:
 
 * [**2021-23-medias.csv**](2021-23-medias.csv) et
 * [**2021-23-non-medias.csv**](2021-23-non-medias.csv)
